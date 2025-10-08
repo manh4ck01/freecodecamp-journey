@@ -1,6 +1,4 @@
 
-**📄 Content:**
-```markdown
 # Sudoku Solver
 
 **Status:** Not Passed
@@ -18,7 +16,7 @@ Builds and solves Sudoku puzzles using algorithmic logic via a RESTful API.
 ```bash
 npm install
 npm start
-
+```
 What Didn't Pass
 
 Solver failed on puzzles with multiple solutions.
