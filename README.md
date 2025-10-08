@@ -1,47 +1,87 @@
-# My FreeCodeCamp Journey
+# 🚀 My FreeCodeCamp Journey
 
-Welcome! This repository contains my FreeCodeCamp projects as I learn web development, coding, and security.  
-I’m documenting my progress and sharing the projects I complete along the way.
-
-## About Me
-Hi, I’m **Makhosi Andile Surge**, a budding web developer and security enthusiast.  
-My goal is to build practical skills while completing FreeCodeCamp certifications and expanding my knowledge in Information Security.
-
-## My Learning Roadmap
-Here are the certifications I’m currently working on or planning to complete:
-
-1. **Responsive Web Design** 🌐  
-   - Learning HTML, CSS, Flexbox, Grid, and accessibility.
-   - Projects will include: Tribute Page, Survey Form, Portfolio, etc.
-
-2. **JavaScript Algorithms and Data Structures** 💻  
-   - Learning JS fundamentals, algorithms, and data structures.
-   - Projects will include: Palindrome Checker, Calculator, etc.
-
-3. **Front End Libraries** ⚛️  
-   - Learning React, Redux, and Bootstrap.
-   - Projects will include: Random Quote Machine, Markdown Previewer, etc.
-
-4. **Back End Development and APIs** 🔗  
-   - Learning Node.js, Express, MongoDB, and building APIs.
-   - Projects will include: Timestamp Microservice, Boilerplate Projects, etc.
-
-5. **Information Security** 🔐  
-   - Learning security best practices, encryption, and safe web development.
-   - Projects and exercises will focus on secure coding and authentication.
-
-6. **Quality Assurance & Testing, and Advanced Topics** 🧪  
-   - Will include testing, deployment, and advanced topics.
-
-## How I’m Using This Repo
-- Each certification has its own folder.  
-- Completed projects are stored in subfolders with their code.  
-- Future projects will be added here as I progress.  
-
-## Contact
-You can reach me at: **andilemakhosisurge@outlook.com**  
-GitHub: **https://github.com/manh4ck01**
+Welcome! This repository tracks my progress through the FreeCodeCamp curriculum as I develop skills in web development, programming, and cybersecurity.  
+I'm learning by doing — building real projects, applying new knowledge, and sharing everything along the way.
 
 ---
 
-> "Learning by doing, one project at a time!"
+## 👨‍💻 About Me
+
+Hi, I’m **Makhosi Andile Surge** — a self-taught developer and future cybersecurity professional.  
+With a background in engineering and a passion for technology, I'm building a strong foundation in:
+
+- **Web Development** (Frontend & Backend)
+- **JavaScript & Data Structures**
+- **Cloud & SOC Operations**
+- **Secure Coding Practices**
+
+---
+
+## 📚 Learning Roadmap
+
+Click a topic below to jump to its section:
+
+1. [Responsive Web Design 🌐](#responsive-web-design-)
+2. [JavaScript Algorithms and Data Structures 💻](#javascript-algorithms-and-data-structures-)
+3. [Front End Libraries ⚛️](#front-end-libraries-)
+4. [Back End Development & APIs 🔗](#back-end-development--apis-)
+5. [Information Security 🔐](#information-security-)
+6. [Quality Assurance & Advanced Topics 🧪](#quality-assurance--advanced-topics-)
+
+---
+
+### Responsive Web Design 🌐
+HTML5, CSS3, Flexbox, Grid, and accessibility.  
+_Projects: Tribute Page, Survey Form, Technical Doc, Portfolio_
+
+---
+
+### JavaScript Algorithms and Data Structures 💻
+Core JavaScript, ES6+, algorithms, and data structures.  
+_Projects: Palindrome Checker, Roman Numeral Converter, Calculator_
+
+---
+
+### Front End Libraries ⚛️
+React, Redux, Bootstrap, jQuery.  
+_Projects: Random Quote Machine, Drum Machine, Markdown Previewer_
+
+---
+
+### Back End Development & APIs 🔗
+Node.js, Express, MongoDB, REST APIs.  
+_Projects: Timestamp Microservice, URL Shortener, Exercise Tracker_
+
+---
+
+### Information Security 🔐
+Web security principles, authentication, hashing, and secure headers.  
+_Projects: Helmet.js secure apps, Auth workflows_
+
+---
+
+### Quality Assurance & Advanced Topics 🧪
+Testing with Mocha/Chai, CI/CD basics, and deployment practices.
+
+---
+
+## 🗂️ Repository Structure
+
+- Each certification has its own folder (e.g. `/responsive-web-design`)  
+- Inside each folder, you'll find subfolders for each completed project  
+- Code is clean, readable, and includes comments for learning reference  
+- New projects will be added as I progress through the roadmap
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out:
+
+- 📧 Email: **andilemakhosisurge@outlook.com**  
+- 🧑‍💻 GitHub: [github.com/manh4ck01](https://github.com/manh4ck01)  
+- 💼 LinkedIn: [Makhosi Andile Surge](https://www.linkedin.com/in/makhosi-andile-surge-8141b1316)
+
+---
+
+> _"Learning by doing, one project at a time."_ 👨‍💻
