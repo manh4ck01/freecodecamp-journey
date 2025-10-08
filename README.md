@@ -21,12 +21,12 @@ With a background in engineering and a passion for technology, I'm building a st
 
 Click a topic below to jump to its section:
 
-1. [Responsive Web Design 🌐](#responsive-web-design-)
-2. [JavaScript Algorithms and Data Structures 💻](#javascript-algorithms-and-data-structures-)
-3. [Front End Libraries ⚛️](#front-end-libraries-)
+1. [Responsive Web Design 🌐](https://github.com/manh4ck01/freecodecamp-journey/tree/main/responsive-web-design)
+2. [JavaScript Algorithms and Data Structures 💻](https://github.com/manh4ck01/freecodecamp-journey/tree/main/javascript-algorithms-and-data-structures)
+3. [Front End Libraries ⚛️](https://github.com/manh4ck01/freecodecamp-journey/tree/main/front-end-libraries)
 4. [Back End Development & APIs 🔗](https://github.com/manh4ck01/freecodecamp-journey/tree/main/back-end-development-and-apis)
-5. [Information Security 🔐](#information-security-)
-6. [Quality Assurance & Advanced Topics 🧪](#quality-assurance--advanced-topics-)
+5. [Information Security 🔐](https://github.com/manh4ck01/freecodecamp-journey/tree/main/information-security)
+6. [Quality Assurance & Advanced Topics 🧪](https://github.com/manh4ck01/freecodecamp-journey/tree/main/quality-assurance--advanced-topics)
 
 ---
 
