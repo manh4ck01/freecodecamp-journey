@@ -26,7 +26,7 @@ Click a topic below to jump to its section:
 3. [Front End Libraries ⚛️](https://github.com/manh4ck01/freecodecamp-journey/tree/main/front-end-libraries)
 4. [Back End Development & APIs 🔗](https://github.com/manh4ck01/freecodecamp-journey/tree/main/back-end-development-and-apis)
 5. [Information Security 🔐](https://github.com/manh4ck01/freecodecamp-journey/tree/main/information-security)
-6. [Quality Assurance & Advanced Topics 🧪](https://github.com/manh4ck01/freecodecamp-journey/tree/main/quality-assurance--advanced-topics)
+6. [Quality Assurance & Advanced Topics 🧪](https://github.com/manh4ck01/freecodecamp-journey/tree/main/quality-assurance)
 
 ---
 
