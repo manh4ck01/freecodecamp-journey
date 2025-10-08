@@ -1,6 +1,6 @@
 
-**📄 Content:**
-```markdown
+
+
 # American ↔ British Translator
 
 **Status:** Not Passed
@@ -14,10 +14,10 @@ Translates text between American and British English dialects, including spellin
 - Mocha + Chai for API test validation
 
 ## How to Run
-```bash
-npm install
-npm start
 
+- npm install
+- npm start
+--
 What Didn't Pass
 
 Some vocabulary terms weren’t translated correctly.
@@ -39,3 +39,6 @@ Pass all FCC-provided Chai tests.
 Learning Outcome
 
 Practiced regex, string manipulation, API routing, and dialect-specific edge case handling.
+
+
+
