@@ -14,10 +14,10 @@ Translates text between American and British English dialects, including spellin
 - Mocha + Chai for API test validation
 
 ## How to Run
-
-- npm install
-- npm start
---
+```bash
+npm install
+npm start
+```
 What Didn't Pass
 
 Some vocabulary terms weren’t translated correctly.
