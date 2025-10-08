@@ -1,6 +1,5 @@
 
-**📄 Content:**
-```markdown
+
 # Issue Tracker
 
 **Status:** Not Passed
@@ -18,6 +17,7 @@ A full-stack web app that lets users create, update, and delete issues in a proj
 npm install
 npm start
 
+```
 Then visit: http://localhost:3000
 
 What Didn't Pass
