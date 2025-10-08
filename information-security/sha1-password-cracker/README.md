@@ -1,6 +1,5 @@
 
-**Content:**
-```markdown
+
 # SHA-1 Password Cracker
 
 **Status:** Not Passed
@@ -15,7 +14,7 @@ Educational tool to demonstrate how hashed passwords (SHA-1) can be brute-forced
 ## How to run (local)
 ```bash
 python3 crack_sha1.py --hash <sha1hash> --wordlist wordlist.txt
-
+```
 
 What didn't pass / issues
 
